@@ -10,3 +10,6 @@ The symbols available can be accessed using their LaTeX commands.
 5. (Optional) Right-click on your saved script and compile it to generate an exe for it.
 
 There are a few shortcuts which have been commented out in the script, this is because their inclusion completely breaks the script.
+
+## Contributions:
+Thanks [Aryaman Maithani](https://github.com/aryamanmaithani) for providing the latexshortcuts.txt file, which was modified to make this script!
