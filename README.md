@@ -2,7 +2,7 @@
 Sets up abbreviations for common symbols used in math.
 The symbols available can be accessed using their LaTeX commands.
 
-###Adding your own shortcuts:
+### Adding your own shortcuts:
 1. [Install AutoHotKey.](https://www.autohotkey.com/)
 2. Edit the latex replacements.ahk file in any text editor.
 3. Add your shortcuts in the format: `::<text to replace::<text it is replaced with>` to the end of the file.
